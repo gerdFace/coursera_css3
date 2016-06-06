@@ -1,0 +1,37 @@
+h1{
+	color: rgba(39, 0, 255, 1);
+	text-align: center;
+	background-color: rgba(200, 100, 100, 1);
+	font-variant: small-caps;
+	font-family: "Courier New";
+	border-top: 2px solid #000000;
+	border-bottom: 2px solid #000000;
+	border-right: 2px solid #000000;
+	border-left: 2px solid #000000;
+	font-size: 300%;
+}
+h2{
+	color: rgba(39, 0, 255, .8);
+}
+p{
+	line-height: 125%;
+	font-family: "Courier New";
+	font-size: 125%;
+}
+nav{
+	background: rgba(200, 100, 100, .75);
+	border-top: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+	font-variant: small-caps;
+	text-align: center;
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	font-size: 150%;
+}
+table{
+	font-family: "Courier New";
+	text-align: left
+}
+section{
+	background: rgba(200, 100, 100, .3);
+}
